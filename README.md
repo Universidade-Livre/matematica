@@ -92,4 +92,8 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 
 # Currículo
 
+# Time
+  - [Jefferson Quesado](https://github.com/jeffque): Responsável pelo Currículo de Matemática
+  - [Castelo](#): Mantenedor do Currículo de Matemática
+
 # Contribuidores
