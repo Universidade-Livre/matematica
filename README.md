@@ -53,7 +53,42 @@ SOFTWARE.
 
 # Sumário
 
+O Curso oferecido pela Universidade Livre Brasileira é **uma educação completa em Matemática** 
+usando materiais on-line e em Português do Brasil.
+Esse Curso é pensado para aqueles que desejam uma educação própria, *com qualidade*, fundada nos conceitos fundamentais da matemática
+e é planejada para alunos com disciplina, comprometimento e (o mais importante) bons hábitos de estudo majoritariamente independentes,
+mas que buscam o suporte de uma comunidade de outros estudantes no Brasil todo.
+
+Esse curso contém conteúdos que seriam vistos em um curso de Matemática organizados de forma estruturada e que contêm disciplinas
+relacionadas ao campo de estudo e também disciplinas de formação geral (acreditamos que uma formação completa abrange mais do que simplesmente CC).
+Os cursos em si são selecionados primariamente do conteúdo aberto de diversas Universidades e Institutos de Educação do Brasil, mas no geral
+os cursos presentes na grade seguem os seguintes critérios:
+
+**Os Cursos devem**:
+- Ser gratuitos ou de conteúdo que possa ser assistido de forma aberta
+- Possuir método pedagógico
+- Ter reconhecimento de qualidade da Comunidade sobre o tema
+- Estar de acordo com o que espera-se do Currículo de Ciências da Computação
+
+**Duração**. É possível terminar o curso em x anos, dedicando x horas por dia. Os estudantes podem utilizar a [planilha que ainda vamos disponibilizar
+](#) para estimar o tempo de curso que ainda falta para a conclusão. 
+
+**Custo**. Todos os cursos podem ser completados de forma gratuita. Porém, alguns cursos têm diplomas/certificados/atividades/extras opcionais que são pagos.
+Observe que o [Coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid) oferece ajuda financeira.
+
+Decida quanto tempo de curso e quanto quer gastar em seus estudos neste curso por sua própria conta,
+apenas tenha sempre em mente que você não pode comprar o sucesso!
+
+**Processo**. Os estudantes podem fazer as disciplinas individualmente ou em grupo, seguindo a ordem que estabelecemos ou não.
+
+**Política de Conteúdo**. Apenas publique em seu GitHub e espaços públicos os materiais que seu Curso permite que sejam publicados.
+*Nunca desrespeite nenhuma regra* do curso em que se matriculou e nunca faça plágios!
+
 # Comunidade
+
+- Temos um servidor no Discord! [![Discord](https://img.shields.io/discord/866378348368625704.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wymGhmf7BT) Nele pode encontrar e interagir com outros estudantes. Por que não se apresenta lá agora mesmo? [Vem para o Discord](https://discord.gg/wymGhmf7BT).
+- Você também pode interagir sobre questões a respeito dos problemas do Curso, propor mudanças de Currículo e outras coisas relacionadas através das nossas [issues](https://github.com/Universidade-Livre/ciencia-da-computacao/issues), sinta-se à vontade para abrir discussões lá.
+- Adicione a Universidade Brasileira Livre no seu perfil do [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6889534067805605889)!
 
 # Currículo
 
