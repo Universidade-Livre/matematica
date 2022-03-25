@@ -90,6 +90,23 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 - Você também pode interagir sobre questões a respeito dos problemas do Curso, propor mudanças de Currículo e outras coisas relacionadas através das nossas [issues](https://github.com/Universidade-Livre/matematica/issues), sinta-se à vontade para abrir discussões lá.
 - Adicione a Universidade Brasileira Livre no seu perfil do [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6889534067805605889)!
 
+# Antes de começar
+
+Existem tópicos que apesar de não serem essenciais na formação de Ciência da Computação podem ser muito úteis na sua jornada de aprendizado. Caso queira você pode pulá-los ou vê-los depois.
+
+## Técnicas de estudo, organização e aprendizagem
+
+Antes de começar a estudar é importante que você aprenda algumas coisas importantes. Ser autodidata não é sobre aprender sozinho, nem sobre não estar vinculado à uma Instituição de Ensino Superior (IES), mas sobre **ser responsável pelo seu próprio ensino** e isso é algo que exige saber como estudar, o quanto estudar, como organizar seus estudos... e para isso recomendamos os seguintes conteúdos abaixo.
+
+Curso | Duração | Dedicação | Conteúdos
+:-- | :--: | :--: | :--: 
+[Aprendendo a aprender](https://pt.coursera.org/learn/aprender) ¹ | 3 Semanas | 5 horas/semana | Memória; Técnicas de estudo; Recursos de estudo.
+[Como estudar do jeito certo](https://www.youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s) | 3 Semanas | 2 horas/semana | Tempo; Técnica; Discussão.
+
+¹ Disponível com legendas em Português.
+
+## Revisão dos Conteúdos do Ensino Médio
+
 # Currículo
 
 ## Introdução ao Cálculo e a Matemática
