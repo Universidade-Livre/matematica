@@ -92,7 +92,7 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 
 # Currículo
 
-## I
+## Introdução ao Cálculo e a Matemática
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
 [Cálculo I](https://integra.univesp.br/courses/2831) | 7 Semanas | 2 horas/semana | Integrais; Limites; Derivadas. | -
@@ -100,11 +100,11 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Geometria Analítica](https://integra.univesp.br/courses/2802) | 7 Semanas | 2 horas/semana | Retas; Plano Cartesiano; Coordenadas. | -
 [Programação (Python)](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) | 8 Semanas | 4 horas/semana | Python; Programação; Algoritmos. | -
 
-## II
+## Aprofundamento no Cálculo e Início da Física Geral
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
 [Cálculo II](https://integra.univesp.br/courses/2405) | 7 Semanas | 2 horas/semana | Integrais Duplas; Curvas Parametrizadas; Derivadas Parciais. | Cálculo I
-[Algoritmos](https://www.youtube.com/playlist?list=PL5TPkym335qyeEu_tTZWh4kGQAzL986ns) | 8 Semanas | 2 horas/semana | Ordenação; Busca; Inferência; Complexidade. | Programação (Python)
+[Projeto e Análise de Algoritmos](https://www.youtube.com/playlist?list=PLxI8Can9yAHdNN5fpKWRF8bbLG-2P-0LW) | 8 Semanas | 2 horas/semana | Ordenação; Busca; Inferência; Complexidade. | Programação (Python)
 [Álgebra Linear](https://integra.univesp.br/courses/668) | 6 Semanas | 2 horas / semana | Vetores; Matrizes; Transformações; Equações. | -
 [Física Geral I](https://www.youtube.com/playlist?list=PL7581C21F8ADD6C8E) | 7 Semanas | 3 horas / semana | Movimento; Cinemática; Mecânica | -
 
