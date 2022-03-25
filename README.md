@@ -159,6 +159,8 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Programação Linear](https://www.youtube.com/channel/UCYe-qV12CP64BewDy2-BY5A/playlists) | 3 semanas | 8 horas/semana | Simplex; Ciclagem; Pós-otimização. | Projeto e Análise de Algoritmos
 [Equações Diferenciais Parciais](https://www.youtube.com/playlist?list=PLpB72X90N5xST4NmvjQicgfRgpt-9rgw-) | 9 Semanas | 8 horas/semana | Série de Fourier; Equação da Onda; Equação de Laplace; Transformada de Fourier. | Cálculo IV, Análise Complexa
 
+(*Em Construção...*)
+
 # Time
   - [Jefferson Quesado](https://github.com/jeffque): Responsável pelo Currículo de Matemática
   - [Emanuel Elias](https://github.com/elvcastelo): Mantenedor do Currículo de Matemática
