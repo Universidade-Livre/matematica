@@ -157,6 +157,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Física Moderna](https://www.youtube.com/playlist?list=PLW5Hta-B_II5vB4Vn9wVWaJVHTo4XxB_i) | 8 Semanas | 3 horas/semana | Relatividade; Estrutura Atômica; Bohr; Quântica. | Física Geral III
 [Teoria de Corpos](https://www.youtube.com/playlist?list=PL2xox8ncv81W0HbBtma7QQMeyVllJMk0m) | 9 Semanas | 3 horas/semana | Extensões Finitas; Compositum; Transcedência. | Estruturas Algébricas
 [Programação Linear](https://www.youtube.com/channel/UCYe-qV12CP64BewDy2-BY5A/playlists) | 3 semanas | 8 horas/semana | Simplex; Ciclagem; Pós-otimização. | Projeto e Análise de Algoritmos
+[Equações Diferenciais Parciais](https://www.youtube.com/playlist?list=PLpB72X90N5xST4NmvjQicgfRgpt-9rgw-) | 9 Semanas | 8 horas/semana | Série de Fourier; Equação da Onda; Equação de Laplace; Transformada de Fourier. | Cálculo IV, Análise Complexa
 
 # Time
   - [Jefferson Quesado](https://github.com/jeffque): Responsável pelo Currículo de Matemática
