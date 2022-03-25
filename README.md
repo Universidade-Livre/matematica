@@ -143,7 +143,10 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Estatística e Probabilidade](https://integra.univesp.br/courses/1624) | 7 Semanas | 2 horas/semana | Tabelas; Gráficos; Aleatoriedade. | -
 [Análise Complexa](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRQ07QOEFl0x6mvyTl2hlRn) | ? Semanas | ? horas/semana | Espaços; Banach; Convergência. | -
 
-> (em construção)
+## Conjuntos,
+Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
+:-- | :--: | :--: | :--: | :--:
+[Introdução a Topologia Geral](https://www.youtube.com/playlist?list=PLhueTEPO9C1KEX8jTphPeb9kEF9it4b5x) | 7 Semanas | 2 horas/semana | Axiomas de Separação e Enumeração; Lema de Urysohn; Teorema de Tietze; Espaços Conexos; Caminhos. | -
 
 # Time
   - [Jefferson Quesado](https://github.com/jeffque): Responsável pelo Currículo de Matemática
