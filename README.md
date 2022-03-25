@@ -148,6 +148,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
 [Introdução a Topologia Geral](https://www.youtube.com/playlist?list=PLhueTEPO9C1KEX8jTphPeb9kEF9it4b5x) | 7 Semanas | 2 horas/semana | Axiomas de Separação e Enumeração; Espaços Conexos; Caminhos. | -
 [Estruturas Algébricas](https://www.youtube.com/playlist?list=PL6eyvTm7LSBsdkBBKzEDcyYbdujN_6TmL) | ? Semanas | ? horas/semana | Grupos e Subgrupos; Anéis; Ideais. | Teoria dos Números
+[Física Moderna](https://www.youtube.com/playlist?list=PLW5Hta-B_II5vB4Vn9wVWaJVHTo4XxB_i) | 8 Semanas | 3 horas/semana | Relatividade; Estrutura Atômica; Bohr; Quântica. | Física Geral III
 
 # Time
   - [Jefferson Quesado](https://github.com/jeffque): Responsável pelo Currículo de Matemática
