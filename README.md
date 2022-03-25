@@ -92,6 +92,42 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 
 # Currículo
 
+## I
+Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
+:-- | :--: | :--: | :--: | :--:
+[Cálculo I](https://integra.univesp.br/courses/2831) | 7 Semanas | 2 horas/semana | Integrais; Limites; Derivadas. | -
+[Lógica e Matemática Discreta](https://integra.univesp.br/courses/2658) | 8 Semanas | 2 horas/semana | Teoria dos Conjuntos; assunto. | -
+[Geometria Analítica](https://integra.univesp.br/courses/2802) | 7 Semanas | 2 horas/semana | Retas; Plano Cartesiano; Coordenadas. | -
+[Programação (Python)](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) | 8 Semanas | 4 horas/semana | Python; Programação; Algoritmos. | -
+
+## II
+Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
+:-- | :--: | :--: | :--: | :--:
+[Cálculo II](https://integra.univesp.br/courses/2405) | 7 Semanas | 2 horas/semana | Integrais Duplas; Curvas Parametrizadas; Derivadas Parciais. | Cálculo I
+[Algoritmos](https://www.youtube.com/playlist?list=PL5TPkym335qyeEu_tTZWh4kGQAzL986ns) | 8 Semanas | 2 horas/semana | Ordenação; Busca; Inferência; Complexidade. | Programação (Python)
+[Álgebra Linear](https://integra.univesp.br/courses/668) | 6 Semanas | 2 horas / semana | Vetores; Matrizes; Transformações; Equações. | -
+[Física Geral I](https://www.youtube.com/playlist?list=PL7581C21F8ADD6C8E) | 7 Semanas | 3 horas / semana | Movimento; Cinemática; Mecânica | -
+
+## III
+
+Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
+:-- | :--: | :--: | :--: | :--:
+[Cálculo III](https://integra.univesp.br/courses/2734) | 8 Semanas | 2 horas/semana | Integrais Triplas; Teorema Gauss e Stokes; Campos Conservativos; Green. | Cálculo II
+[Teoria dos Números](https://integra.univesp.br/courses/1003) | 7 Semanas | 2 horas/semana | Inteiros; Primos; Relações. | -
+[Equações Diferenciais Ordinárias](https://www.youtube.com/playlist?list=PLo4jXE-LdDTR9q44hqm2w3NWtvyP_ZoiP) | x Semanas | x horas/semana | assunto; assunto. | -
+[Física Geral II](https://www.youtube.com/playlist?list=PL516F59E9AE8F5BF7) | 7 Semanas | 2 horas/semana | Gravitação; Ondas; Termodinâmica. | Física Geral I
+
+## IV
+
+Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
+:-- | :--: | :--: | :--: | :--:
+[Cálculo IV](https://integra.univesp.br/courses/515) | 7 Semanas | 2 horas/semana | Sequências; Convergências; Séries. | Cálculo III
+[Física Geral III](https://www.youtube.com/playlist?list=PLxI8Can9yAHdG8tw2QofrU02IuAEVyGlL) | 7 Semanas | 2 horas/semana | Eletromagnetismo; Polaridade; Corrente. | Física Geral II
+[Estatística e Probabilidade](https://integra.univesp.br/courses/1624) | 7 Semanas | 2 horas/semana | Tabelas; Gráficos; Aleatoriedade. | -
+[Análise Complexa](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRQ07QOEFl0x6mvyTl2hlRn) | ? Semanas | ? horas/semana | Espaços; Banach; Convergência. | -
+
+> (em construção)
+
 # Time
   - [Jefferson Quesado](https://github.com/jeffque): Responsável pelo Currículo de Matemática
   - [Emanuel Elias](https://github.com/elvcastelo): Mantenedor do Currículo de Matemática
