@@ -149,6 +149,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Introdução a Topologia Geral](https://www.youtube.com/playlist?list=PLhueTEPO9C1KEX8jTphPeb9kEF9it4b5x) | 7 Semanas | 2 horas/semana | Axiomas de Separação e Enumeração; Espaços Conexos; Caminhos. | -
 [Estruturas Algébricas](https://www.youtube.com/playlist?list=PL6eyvTm7LSBsdkBBKzEDcyYbdujN_6TmL) | ? Semanas | ? horas/semana | Grupos e Subgrupos; Anéis; Ideais. | Teoria dos Números
 [Teoria dos Grafos](https://www.youtube.com/playlist?list=PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX) | 4 Semanas | 3 horas/semana | Grafos; Representações; Isomorfismo; Decomposição. | -
+[Programação Linear](https://www.youtube.com/channel/UCYe-qV12CP64BewDy2-BY5A/playlists) | 3 semanas | 8 horas/semana | Projeto e Análise de Algoritmos
 
 ## VI
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
