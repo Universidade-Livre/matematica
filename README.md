@@ -125,7 +125,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Álgebra Linear](https://integra.univesp.br/courses/668) | 6 Semanas | 2 horas / semana | Vetores; Matrizes; Transformações; Equações. | -
 [Física Geral I](https://www.youtube.com/playlist?list=PL7581C21F8ADD6C8E) | 7 Semanas | 3 horas / semana | Movimento; Cinemática; Mecânica | -
 
-## III
+## Aprofundamento no Cálculo e Física
 
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
@@ -134,7 +134,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Equações Diferenciais Ordinárias](https://www.youtube.com/playlist?list=PLo4jXE-LdDTR9q44hqm2w3NWtvyP_ZoiP) | x Semanas | x horas/semana | assunto; assunto. | -
 [Física Geral II](https://www.youtube.com/playlist?list=PL516F59E9AE8F5BF7) | 7 Semanas | 2 horas/semana | Gravitação; Ondas; Termodinâmica. | Física Geral I
 
-## IV
+## Cálculo e Física Avançado
 
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
