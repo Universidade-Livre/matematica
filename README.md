@@ -151,6 +151,8 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Teoria dos Grafos](https://www.youtube.com/playlist?list=PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX) | 4 Semanas | 3 horas/semana | Grafos; Representações; Isomorfismo; Decomposição. 
 
 ## VI
+Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
+:-- | :--: | :--: | :--: | :--:
 [Física Moderna](https://www.youtube.com/playlist?list=PLW5Hta-B_II5vB4Vn9wVWaJVHTo4XxB_i) | 8 Semanas | 3 horas/semana | Relatividade; Estrutura Atômica; Bohr; Quântica. | Física Geral III
 
 # Time
