@@ -162,6 +162,8 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 (*Em Construção...*)
 
 # Time
+
+  - [Camilo Cunha de Azevedo](https://github.com/Camilotk): Fundador da ULivre
   - [Jefferson Quesado](https://github.com/jeffque): Responsável pelo Currículo de Matemática
   - [Emanuel Elias](https://github.com/elvcastelo): Mantenedor do Currículo de Matemática
 
