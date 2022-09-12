@@ -124,7 +124,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 ## Aprofundamento no Cálculo e Início da Física Geral
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
-[Cálculo II](https://integra.univesp.br/courses/2405) | 7 Semanas | 2 horas/semana | Integrais Duplas; Curvas Parametrizadas; Derivadas Parciais. | Cálculo I
+[Cálculo II](https://www.youtube.com/playlist?list=PLxI8Can9yAHeZfF4HwiVmv4D6n3acKLER) ([alt](https://integra.univesp.br/courses/2405)) | 7 Semanas | 2 horas/semana | Integrais Duplas; Curvas Parametrizadas; Derivadas Parciais. | Cálculo I
 [Projeto e Análise de Algoritmos](https://www.youtube.com/playlist?list=PLxI8Can9yAHdNN5fpKWRF8bbLG-2P-0LW) | 8 Semanas | 2 horas/semana | Ordenação; Busca; Inferência; Complexidade. | Programação (Python)
 [Álgebra Linear](https://integra.univesp.br/courses/668) | 6 Semanas | 2 horas / semana | Vetores; Matrizes; Transformações; Equações. | -
 [Física Geral I](https://www.youtube.com/playlist?list=PL7581C21F8ADD6C8E) | 7 Semanas | 3 horas / semana | Movimento; Cinemática; Mecânica | -
