@@ -116,7 +116,7 @@ Curso | Duração | Dedicação | Conteúdos
 ## Introdução ao Cálculo e a Matemática
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
-[Cálculo I](https://integra.univesp.br/courses/2831) | 7 Semanas | 2 horas/semana | Integrais; Limites; Derivadas. | -
+[Cálculo I](https://www.youtube.com/playlist?list=PL2D9B691A704C6F7B)([alt](https://integra.univesp.br/courses/2831)) | 7 Semanas | 2 horas/semana | Integrais; Limites; Derivadas. | -
 [Lógica e Matemática Discreta](https://integra.univesp.br/courses/2658) | 8 Semanas | 2 horas/semana | Teoria dos Conjuntos; assunto. | -
 [Geometria Analítica](https://integra.univesp.br/courses/2802) | 7 Semanas | 2 horas/semana | Retas; Plano Cartesiano; Coordenadas. | -
 [Programação (Python)](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) | 8 Semanas | 4 horas/semana | Python; Programação; Algoritmos. | -
