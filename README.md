@@ -142,7 +142,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
-[Cálculo IV](https://integra.univesp.br/courses/515) | 7 Semanas | 2 horas/semana | Sequências; Convergências; Séries. | Cálculo III
+[Cálculo IV](https://www.youtube.com/playlist?list=PLxI8Can9yAHeOiMYCBlkyCALloROQ58OY) ([alt](https://integra.univesp.br/courses/515)) | 7 Semanas | 2 horas/semana | Sequências; Convergências; Séries. | Cálculo III
 [Física Geral III](https://www.youtube.com/playlist?list=PLxI8Can9yAHdG8tw2QofrU02IuAEVyGlL) | 7 Semanas | 2 horas/semana | Eletromagnetismo; Polaridade; Corrente. | Física Geral II
 [Estatística e Probabilidade](https://integra.univesp.br/courses/1624) | 7 Semanas | 2 horas/semana | Tabelas; Gráficos; Aleatoriedade. | -
 [Análise Complexa](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRQ07QOEFl0x6mvyTl2hlRn) | ? Semanas | ? horas/semana | Espaços; Banach; Convergência. | -
