@@ -53,8 +53,6 @@ SOFTWARE.
   </a>
 </p>
 
-> Trabalho em Andamento // Work in Progress 
-
 # Sumário
 
 O Curso oferecido pela Universidade Livre Brasileira é **uma educação completa em Matemática** 
