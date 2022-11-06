@@ -155,6 +155,8 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Estruturas Algébricas](https://www.youtube.com/playlist?list=PL6eyvTm7LSBsdkBBKzEDcyYbdujN_6TmL) | ? Semanas | ? horas/semana | Grupos e Subgrupos; Anéis; Ideais. | Teoria dos Números
 [Váriavel Complexa](https://www.youtube.com/playlist?list=PLpizEtrJatZEUjIgADKdbE6_jGhcXFxht) | 8 Semanas | 3 horas/semana | Números Complexos; Funções Elementares; Derivação; Integração. | Cálculo IV
 [Teoria dos Grafos](https://www.youtube.com/playlist?list=PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX) | 4 Semanas | 3 horas/semana | Grafos; Representações; Isomorfismo; Decomposição. | -
+[Alfabetização em anéis](https://www.youtube.com/playlist?list=PL2xox8ncv81XSiyT7czJX8q7I7kNmc8Bk) | 10 Semanas | 3 horas/semana | Anéis; DFU; Domínios; Polinômios. | -
+
 
 ## Teoria Avançada
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
