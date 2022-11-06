@@ -115,7 +115,7 @@ Curso | Duração | Dedicação | Conteúdos
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
 [Ingredientes básicos para o Cálculo](https://www.youtube.com/playlist?list=PL2xox8ncv81W698VTHptmp7ZNvcKqlyHO) | 7 Semanas | 1/2 horas/semana | Funções, Contatos, Trigonometria, Exponencial e Logaritmo. | -
-[Cálculo I](https://www.youtube.com/playlist?list=PL2D9B691A704C6F7B) ([alt](https://integra.univesp.br/courses/2831)) | 7 Semanas | 2 horas/semana | Integrais; Limites; Derivadas. | -
+[Teoria dos Conjuntos](https://www.youtube.com/playlist?list=PL2xox8ncv81X2Cp3FClIjRE9sG_Vq6sZ_) | 7 Semanas | 2 horas/semana | Conjuntos, Numéricos, Finitos, Enumeráveis e Operações. | -
 [Lógica e Matemática Discreta](https://www.youtube.com/playlist?list=PLxI8Can9yAHf6oB0nf8FwLhqSOcBLqOxH) ([alt](https://integra.univesp.br/courses/2658)) | 8 Semanas | 2 horas/semana | Teoria dos Conjuntos; assunto. | -
 [Geometria Analítica](https://www.youtube.com/playlist?list=PLxI8Can9yAHcSZv2BBUJAfGsXx0D0hn-2) ([alt](https://integra.univesp.br/courses/2802))| 7 Semanas | 2 horas/semana | Retas; Plano Cartesiano; Coordenadas. | -
 [Algoritmos e Programação em Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) | 8 Semanas | 4 horas/semana | Python; Programação; Algoritmos. | -
@@ -123,7 +123,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 ## Aprofundamento no Cálculo e Início da Física Geral
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
-[Cálculo II](https://www.youtube.com/playlist?list=PLxI8Can9yAHeZfF4HwiVmv4D6n3acKLER) ([alt](https://integra.univesp.br/courses/2405)) | 7 Semanas | 2 horas/semana | Integrais Duplas; Curvas Parametrizadas; Derivadas Parciais. | Cálculo I
+[Cálculo I](https://www.youtube.com/playlist?list=PL2D9B691A704C6F7B) ([alt](https://integra.univesp.br/courses/2831)) | 7 Semanas | 2 horas/semana | Integrais; Limites; Derivadas. | -
 [Projeto e Análise de Algoritmos](https://www.youtube.com/playlist?list=PLxI8Can9yAHdNN5fpKWRF8bbLG-2P-0LW) | 8 Semanas | 2 horas/semana | Ordenação; Busca; Inferência; Complexidade. | Programação (Python)
 [Álgebra Linear](https://www.youtube.com/playlist?list=PLxI8Can9yAHdUtWDKtTA9AmuICNyX9EIr) ([alt](https://integra.univesp.br/courses/668))| 6 Semanas | 2 horas / semana | Vetores; Matrizes; Transformações; Equações. | -
 [Álgebra Linear (avançada)](https://www.youtube.com/playlist?list=PL2xox8ncv81WXIutzWJDQ7E78riZqJClA) | 8 Semanas | 2 horas / semana | Matrizes Arbitrárias; Transformações Lineares; Dimensões; Sistemas Lineares. | -
@@ -133,7 +133,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
-[Cálculo III](https://www.youtube.com/playlist?list=PLFBA21F349930F92F) ([alt](https://cursos.univesp.br/courses/3002))| 8 Semanas | 2 horas/semana | Integrais Triplas; Teorema Gauss e Stokes; Campos Conservativos; Green. | Cálculo II
+[Cálculo II](https://www.youtube.com/playlist?list=PLxI8Can9yAHeZfF4HwiVmv4D6n3acKLER) ([alt](https://integra.univesp.br/courses/2405)) | 7 Semanas | 2 horas/semana | Integrais Duplas; Curvas Parametrizadas; Derivadas Parciais. | Cálculo I
 [Teoria dos Números](https://www.youtube.com/playlist?list=PLxI8Can9yAHcfxDjfTmU-t7XC1w2GVwc_) ([alt](https://integra.univesp.br/courses/1003)) | 7 Semanas | 2 horas/semana | Inteiros; Primos; Relações. | -
 [Análise na Reta](https://www.youtube.com/playlist?list=PL2xox8ncv81UTkjNN2WQM8knGQJpu1j_z) | 7 Semanas | 2 horas/semana | Limites; Topologia; Sequências. | -
 [Equações Diferenciais Ordinárias](https://www.youtube.com/playlist?list=PLo4jXE-LdDTR9q44hqm2w3NWtvyP_ZoiP) | x Semanas | x horas/semana | assunto; assunto. | -
@@ -143,24 +143,26 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
-[Cálculo IV](https://www.youtube.com/playlist?list=PLxI8Can9yAHeOiMYCBlkyCALloROQ58OY) ([alt](https://integra.univesp.br/courses/515)) | 7 Semanas | 2 horas/semana | Sequências; Convergências; Séries. | Cálculo III
+[Cálculo III](https://www.youtube.com/playlist?list=PLFBA21F349930F92F) ([alt](https://cursos.univesp.br/courses/3002))| 8 Semanas | 2 horas/semana | Integrais Triplas; Teorema Gauss e Stokes; Campos Conservativos; Green. | Cálculo II
 [Física Geral III](https://www.youtube.com/playlist?list=PLxI8Can9yAHdG8tw2QofrU02IuAEVyGlL) | 7 Semanas | 2 horas/semana | Eletromagnetismo; Polaridade; Corrente. | Física Geral II
+[História da Matemática](https://www.youtube.com/playlist?list=PLxI8Can9yAHdOIYVPQPS6oUPBk8mb1CVU) | 7 Semanas | 1 hora/semana | História, Sistemas numéricos da antiguidade, Evolução. | -
 [Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLxI8Can9yAHeeWqe3m9HZFiBhT33Mfxew) ([alt](https://integra.univesp.br/courses/1624)) | 7 Semanas | 2 horas/semana | Tabelas; Gráficos; Aleatoriedade. | -
 [Análise Complexa](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRQ07QOEFl0x6mvyTl2hlRn) | ? Semanas | ? horas/semana | Espaços; Banach; Convergência. | -
+
 
 ## Tópicos Matemáticos
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
+[Cálculo IV](https://www.youtube.com/playlist?list=PLxI8Can9yAHeOiMYCBlkyCALloROQ58OY) ([alt](https://integra.univesp.br/courses/515)) | 7 Semanas | 2 horas/semana | Sequências; Convergências; Séries. | Cálculo III
 [Introdução a Topologia Geral](https://www.youtube.com/playlist?list=PLhueTEPO9C1KEX8jTphPeb9kEF9it4b5x) | 7 Semanas | 2 horas/semana | Axiomas de Separação e Enumeração; Espaços Conexos; Caminhos. | -
 [Estruturas Algébricas](https://www.youtube.com/playlist?list=PL6eyvTm7LSBsdkBBKzEDcyYbdujN_6TmL) | ? Semanas | ? horas/semana | Grupos e Subgrupos; Anéis; Ideais. | Teoria dos Números
 [Váriavel Complexa](https://www.youtube.com/playlist?list=PLpizEtrJatZEUjIgADKdbE6_jGhcXFxht) | 8 Semanas | 3 horas/semana | Números Complexos; Funções Elementares; Derivação; Integração. | Cálculo IV
 [Teoria dos Grafos](https://www.youtube.com/playlist?list=PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX) | 4 Semanas | 3 horas/semana | Grafos; Representações; Isomorfismo; Decomposição. | -
-[Alfabetização em anéis](https://www.youtube.com/playlist?list=PL2xox8ncv81XSiyT7czJX8q7I7kNmc8Bk) | 10 Semanas | 3 horas/semana | Anéis; DFU; Domínios; Polinômios. | -
-
 
 ## Teoria Avançada
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
+[Alfabetização em anéis](https://www.youtube.com/playlist?list=PL2xox8ncv81XSiyT7czJX8q7I7kNmc8Bk) | 10 Semanas | 3 horas/semana | Anéis; DFU; Domínios; Polinômios. | Estruturas Algébricas
 [Física Moderna](https://www.youtube.com/playlist?list=PLW5Hta-B_II5vB4Vn9wVWaJVHTo4XxB_i) | 8 Semanas | 3 horas/semana | Relatividade; Estrutura Atômica; Bohr; Quântica. | Física Geral III
 [Teoria de Corpos](https://www.youtube.com/playlist?list=PL2xox8ncv81W0HbBtma7QQMeyVllJMk0m) | 9 Semanas | 3 horas/semana | Extensões Finitas; Compositum; Transcedência. | Estruturas Algébricas
 [Programação Linear](https://www.youtube.com/channel/UCYe-qV12CP64BewDy2-BY5A/playlists) | 3 semanas | 8 horas/semana | Simplex; Ciclagem; Pós-otimização. | Projeto e Análise de Algoritmos
