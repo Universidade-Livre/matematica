@@ -135,6 +135,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
 [Cálculo III](https://www.youtube.com/playlist?list=PLFBA21F349930F92F) ([alt](https://cursos.univesp.br/courses/3002))| 8 Semanas | 2 horas/semana | Integrais Triplas; Teorema Gauss e Stokes; Campos Conservativos; Green. | Cálculo II
 [Teoria dos Números](https://www.youtube.com/playlist?list=PLxI8Can9yAHcfxDjfTmU-t7XC1w2GVwc_) ([alt](https://integra.univesp.br/courses/1003)) | 7 Semanas | 2 horas/semana | Inteiros; Primos; Relações. | -
+[Análise na Reta](https://www.youtube.com/playlist?list=PL2xox8ncv81UTkjNN2WQM8knGQJpu1j_z) | 7 Semanas | 2 horas/semana | Limites; Topologia; Sequências. | -
 [Equações Diferenciais Ordinárias](https://www.youtube.com/playlist?list=PLo4jXE-LdDTR9q44hqm2w3NWtvyP_ZoiP) | x Semanas | x horas/semana | assunto; assunto. | -
 [Física Geral II](https://www.youtube.com/playlist?list=PL516F59E9AE8F5BF7) | 7 Semanas | 2 horas/semana | Gravitação; Ondas; Termodinâmica. | Física Geral I
 
