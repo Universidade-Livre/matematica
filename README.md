@@ -70,7 +70,7 @@ os cursos presentes na grade seguem os seguintes critérios:
 - Ser gratuitos ou de conteúdo que possa ser assistido de forma aberta
 - Possuir método pedagógico
 - Ter reconhecimento de qualidade da Comunidade sobre o tema
-- Estar de acordo com o que espera-se do Currículo de Ciências da Computação
+- Estar de acordo com o que espera-se do Currículo de Matemática
 
 **Duração**. É possível terminar o curso em x anos, dedicando x horas por dia. Os estudantes podem utilizar a [planilha que ainda vamos disponibilizar
 ](#) para estimar o tempo de curso que ainda falta para a conclusão. 
