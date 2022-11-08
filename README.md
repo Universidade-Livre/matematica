@@ -62,7 +62,7 @@ e é planejada para alunos com disciplina, comprometimento e (o mais importante)
 mas que buscam o suporte de uma comunidade de outros estudantes no Brasil todo.
 
 Esse curso contém conteúdos que seriam vistos em um curso de Matemática organizados de forma estruturada e que contêm disciplinas
-relacionadas ao campo de estudo e também disciplinas de formação geral (acreditamos que uma formação completa abrange mais do que simplesmente CC).
+relacionadas ao campo de estudo e também disciplinas de formação geral.
 Os cursos em si são selecionados primariamente do conteúdo aberto de diversas Universidades e Institutos de Educação do Brasil, mas no geral
 os cursos presentes na grade seguem os seguintes critérios:
 
