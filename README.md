@@ -129,15 +129,15 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Álgebra Linear (avançada)](https://www.youtube.com/playlist?list=PL2xox8ncv81WXIutzWJDQ7E78riZqJClA) | 8 Semanas | 2 horas / semana | Matrizes Arbitrárias; Transformações Lineares; Dimensões; Sistemas Lineares. | -
 [Teoria dos Números](https://www.youtube.com/playlist?list=PLxI8Can9yAHcfxDjfTmU-t7XC1w2GVwc_) ([alt](https://integra.univesp.br/courses/1003)) | 7 Semanas | 2 horas/semana | Inteiros; Primos; Relações. | -
 
-<!-- -1 -->
 ## Aprofundamento no Cálculo e Física
 
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
 [Cálculo II](https://www.youtube.com/playlist?list=PLxI8Can9yAHeZfF4HwiVmv4D6n3acKLER) ([alt](https://integra.univesp.br/courses/2405)) | 7 Semanas | 2 horas/semana | Integrais Duplas; Curvas Parametrizadas; Derivadas Parciais. | Cálculo I
-[Análise na Reta](https://www.youtube.com/playlist?list=PL2xox8ncv81UTkjNN2WQM8knGQJpu1j_z) | 7 Semanas | 2 horas/semana | Limites; Topologia; Sequências. | -
+[Estruturas Algébricas](https://www.youtube.com/playlist?list=PL6eyvTm7LSBsdkBBKzEDcyYbdujN_6TmL) | ? Semanas | ? horas/semana | Grupos e Subgrupos; Anéis; Ideais. | Teoria dos Números
 [Equações Diferenciais Ordinárias](https://www.youtube.com/playlist?list=PLo4jXE-LdDTR9q44hqm2w3NWtvyP_ZoiP) | x Semanas | x horas/semana | assunto; assunto. | -
 [Física Geral I](https://www.youtube.com/playlist?list=PL7581C21F8ADD6C8E) | 7 Semanas | 3 horas / semana | Movimento; Cinemática; Mecânica | -
+[História da Matemática](https://www.youtube.com/playlist?list=PLxI8Can9yAHdOIYVPQPS6oUPBk8mb1CVU) | 7 Semanas | 1 hora/semana | História, Sistemas numéricos da antiguidade, Evolução. | -
 
 ## Cálculo e Física Avançado
 
@@ -145,17 +145,15 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
 [Cálculo III](https://www.youtube.com/playlist?list=PLFBA21F349930F92F) ([alt](https://cursos.univesp.br/courses/3002))| 8 Semanas | 2 horas/semana | Integrais Triplas; Teorema Gauss e Stokes; Campos Conservativos; Green. | Cálculo II
 [Física Geral II](https://www.youtube.com/playlist?list=PL516F59E9AE8F5BF7) | 7 Semanas | 2 horas/semana | Gravitação; Ondas; Termodinâmica. | Física Geral I
-[História da Matemática](https://www.youtube.com/playlist?list=PLxI8Can9yAHdOIYVPQPS6oUPBk8mb1CVU) | 7 Semanas | 1 hora/semana | História, Sistemas numéricos da antiguidade, Evolução. | -
 [Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLxI8Can9yAHeeWqe3m9HZFiBhT33Mfxew) ([alt](https://integra.univesp.br/courses/1624)) | 7 Semanas | 2 horas/semana | Tabelas; Gráficos; Aleatoriedade. | -
 [Análise Complexa](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRQ07QOEFl0x6mvyTl2hlRn) | ? Semanas | ? horas/semana | Espaços; Banach; Convergência. | -
+[Análise na Reta](https://www.youtube.com/playlist?list=PL2xox8ncv81UTkjNN2WQM8knGQJpu1j_z) | 7 Semanas | 2 horas/semana | Limites; Topologia; Sequências. | -
 
-<!-- +1 -->
 ## Tópicos Matemáticos
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
 [Cálculo IV](https://www.youtube.com/playlist?list=PLxI8Can9yAHeOiMYCBlkyCALloROQ58OY) ([alt](https://integra.univesp.br/courses/515)) | 7 Semanas | 2 horas/semana | Sequências; Convergências; Séries. | Cálculo III
 [Introdução a Topologia Geral](https://www.youtube.com/playlist?list=PLhueTEPO9C1KEX8jTphPeb9kEF9it4b5x) | 7 Semanas | 2 horas/semana | Axiomas de Separação e Enumeração; Espaços Conexos; Caminhos. | -
-[Estruturas Algébricas](https://www.youtube.com/playlist?list=PL6eyvTm7LSBsdkBBKzEDcyYbdujN_6TmL) | ? Semanas | ? horas/semana | Grupos e Subgrupos; Anéis; Ideais. | Teoria dos Números
 [Váriavel Complexa](https://www.youtube.com/playlist?list=PLpizEtrJatZEUjIgADKdbE6_jGhcXFxht) | 8 Semanas | 3 horas/semana | Números Complexos; Funções Elementares; Derivação; Integração. | Cálculo IV
 [Teoria dos Grafos](https://www.youtube.com/playlist?list=PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX) | 4 Semanas | 3 horas/semana | Grafos; Representações; Isomorfismo; Decomposição. | -
 [Física Geral III](https://www.youtube.com/playlist?list=PLxI8Can9yAHdG8tw2QofrU02IuAEVyGlL) | 7 Semanas | 2 horas/semana | Eletromagnetismo; Polaridade; Corrente. | Física Geral II
