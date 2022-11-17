@@ -120,7 +120,6 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Geometria Analítica](https://www.youtube.com/playlist?list=PLxI8Can9yAHcSZv2BBUJAfGsXx0D0hn-2) ([alt](https://integra.univesp.br/courses/2802))| 7 Semanas | 4 horas/semana | Retas; Plano Cartesiano; Coordenadas. | -
 [Algoritmos e Programação em Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) | 8 Semanas | 2 horas/semana | Python; Programação; Algoritmos. | -
 
-<!-- -1 -->
 ## Aprofundamento no Cálculo e Início da Física Geral
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
@@ -128,14 +127,14 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Projeto e Análise de Algoritmos](https://www.youtube.com/playlist?list=PLxI8Can9yAHdNN5fpKWRF8bbLG-2P-0LW) | 8 Semanas | 2 horas/semana | Ordenação; Busca; Inferência; Complexidade. | Programação (Python)
 [Álgebra Linear](https://www.youtube.com/playlist?list=PLxI8Can9yAHdUtWDKtTA9AmuICNyX9EIr) ([alt](https://integra.univesp.br/courses/668))| 6 Semanas | 2 horas / semana | Vetores; Matrizes; Transformações; Equações. | -
 [Álgebra Linear (avançada)](https://www.youtube.com/playlist?list=PL2xox8ncv81WXIutzWJDQ7E78riZqJClA) | 8 Semanas | 2 horas / semana | Matrizes Arbitrárias; Transformações Lineares; Dimensões; Sistemas Lineares. | -
+[Teoria dos Números](https://www.youtube.com/playlist?list=PLxI8Can9yAHcfxDjfTmU-t7XC1w2GVwc_) ([alt](https://integra.univesp.br/courses/1003)) | 7 Semanas | 2 horas/semana | Inteiros; Primos; Relações. | -
 
-
+<!-- -1 -->
 ## Aprofundamento no Cálculo e Física
 
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
 [Cálculo II](https://www.youtube.com/playlist?list=PLxI8Can9yAHeZfF4HwiVmv4D6n3acKLER) ([alt](https://integra.univesp.br/courses/2405)) | 7 Semanas | 2 horas/semana | Integrais Duplas; Curvas Parametrizadas; Derivadas Parciais. | Cálculo I
-[Teoria dos Números](https://www.youtube.com/playlist?list=PLxI8Can9yAHcfxDjfTmU-t7XC1w2GVwc_) ([alt](https://integra.univesp.br/courses/1003)) | 7 Semanas | 2 horas/semana | Inteiros; Primos; Relações. | -
 [Análise na Reta](https://www.youtube.com/playlist?list=PL2xox8ncv81UTkjNN2WQM8knGQJpu1j_z) | 7 Semanas | 2 horas/semana | Limites; Topologia; Sequências. | -
 [Equações Diferenciais Ordinárias](https://www.youtube.com/playlist?list=PLo4jXE-LdDTR9q44hqm2w3NWtvyP_ZoiP) | x Semanas | x horas/semana | assunto; assunto. | -
 [Física Geral I](https://www.youtube.com/playlist?list=PL7581C21F8ADD6C8E) | 7 Semanas | 3 horas / semana | Movimento; Cinemática; Mecânica | -
