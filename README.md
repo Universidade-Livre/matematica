@@ -146,7 +146,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Cálculo III](https://www.youtube.com/playlist?list=PLFBA21F349930F92F) ([alt](https://cursos.univesp.br/courses/3002))| 8 Semanas | 2 horas/semana | Integrais Triplas; Teorema Gauss e Stokes; Campos Conservativos; Green. | Cálculo II
 [Física Geral II](https://www.youtube.com/playlist?list=PL516F59E9AE8F5BF7) | 7 Semanas | 2 horas/semana | Gravitação; Ondas; Termodinâmica. | Física Geral I
 [Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLxI8Can9yAHeeWqe3m9HZFiBhT33Mfxew) ([alt](https://integra.univesp.br/courses/1624)) | 7 Semanas | 2 horas/semana | Tabelas; Gráficos; Aleatoriedade. | -
-[Análise Complexa](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRQ07QOEFl0x6mvyTl2hlRn) | ? Semanas | ? horas/semana | Espaços; Banach; Convergência. | -
+[Programação Linear](https://www.youtube.com/channel/UCYe-qV12CP64BewDy2-BY5A/playlists) | 3 semanas | 8 horas/semana | Simplex; Ciclagem; Pós-otimização. | Projeto e Análise de Algoritmos
 [Análise na Reta](https://www.youtube.com/playlist?list=PL2xox8ncv81UTkjNN2WQM8knGQJpu1j_z) | 7 Semanas | 2 horas/semana | Limites; Topologia; Sequências. | -
 
 ## Tópicos Matemáticos
@@ -164,7 +164,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Alfabetização em anéis](https://www.youtube.com/playlist?list=PL2xox8ncv81XSiyT7czJX8q7I7kNmc8Bk) | 10 Semanas | 3 horas/semana | Anéis; DFU; Domínios; Polinômios. | Estruturas Algébricas
 [Física Moderna](https://www.youtube.com/playlist?list=PLW5Hta-B_II5vB4Vn9wVWaJVHTo4XxB_i) | 8 Semanas | 3 horas/semana | Relatividade; Estrutura Atômica; Bohr; Quântica. | Física Geral III
 [Teoria de Corpos](https://www.youtube.com/playlist?list=PL2xox8ncv81W0HbBtma7QQMeyVllJMk0m) | 9 Semanas | 3 horas/semana | Extensões Finitas; Compositum; Transcedência. | Estruturas Algébricas
-[Programação Linear](https://www.youtube.com/channel/UCYe-qV12CP64BewDy2-BY5A/playlists) | 3 semanas | 8 horas/semana | Simplex; Ciclagem; Pós-otimização. | Projeto e Análise de Algoritmos
+[Análise Complexa](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRQ07QOEFl0x6mvyTl2hlRn) | ? Semanas | ? horas/semana | Espaços; Banach; Convergência. | -
 [Equações Diferenciais Parciais](https://www.youtube.com/playlist?list=PLpB72X90N5xST4NmvjQicgfRgpt-9rgw-) | 9 Semanas | 8 horas/semana | Série de Fourier; Equação da Onda; Equação de Laplace; Transformada de Fourier. | Cálculo IV, Análise Complexa
 
 # Time
