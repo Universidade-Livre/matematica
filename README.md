@@ -120,6 +120,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Geometria Analítica](https://www.youtube.com/playlist?list=PLxI8Can9yAHcSZv2BBUJAfGsXx0D0hn-2) ([alt](https://integra.univesp.br/courses/2802))| 7 Semanas | 4 horas/semana | Retas; Plano Cartesiano; Coordenadas. | -
 [Algoritmos e Programação em Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) | 8 Semanas | 2 horas/semana | Python; Programação; Algoritmos. | -
 
+<!-- -1 -->
 ## Aprofundamento no Cálculo e Início da Física Geral
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
@@ -127,7 +128,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Projeto e Análise de Algoritmos](https://www.youtube.com/playlist?list=PLxI8Can9yAHdNN5fpKWRF8bbLG-2P-0LW) | 8 Semanas | 2 horas/semana | Ordenação; Busca; Inferência; Complexidade. | Programação (Python)
 [Álgebra Linear](https://www.youtube.com/playlist?list=PLxI8Can9yAHdUtWDKtTA9AmuICNyX9EIr) ([alt](https://integra.univesp.br/courses/668))| 6 Semanas | 2 horas / semana | Vetores; Matrizes; Transformações; Equações. | -
 [Álgebra Linear (avançada)](https://www.youtube.com/playlist?list=PL2xox8ncv81WXIutzWJDQ7E78riZqJClA) | 8 Semanas | 2 horas / semana | Matrizes Arbitrárias; Transformações Lineares; Dimensões; Sistemas Lineares. | -
-[Física Geral I](https://www.youtube.com/playlist?list=PL7581C21F8ADD6C8E) | 7 Semanas | 3 horas / semana | Movimento; Cinemática; Mecânica | -
+
 
 ## Aprofundamento no Cálculo e Física
 
@@ -137,19 +138,19 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Teoria dos Números](https://www.youtube.com/playlist?list=PLxI8Can9yAHcfxDjfTmU-t7XC1w2GVwc_) ([alt](https://integra.univesp.br/courses/1003)) | 7 Semanas | 2 horas/semana | Inteiros; Primos; Relações. | -
 [Análise na Reta](https://www.youtube.com/playlist?list=PL2xox8ncv81UTkjNN2WQM8knGQJpu1j_z) | 7 Semanas | 2 horas/semana | Limites; Topologia; Sequências. | -
 [Equações Diferenciais Ordinárias](https://www.youtube.com/playlist?list=PLo4jXE-LdDTR9q44hqm2w3NWtvyP_ZoiP) | x Semanas | x horas/semana | assunto; assunto. | -
-[Física Geral II](https://www.youtube.com/playlist?list=PL516F59E9AE8F5BF7) | 7 Semanas | 2 horas/semana | Gravitação; Ondas; Termodinâmica. | Física Geral I
+[Física Geral I](https://www.youtube.com/playlist?list=PL7581C21F8ADD6C8E) | 7 Semanas | 3 horas / semana | Movimento; Cinemática; Mecânica | -
 
 ## Cálculo e Física Avançado
 
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
 [Cálculo III](https://www.youtube.com/playlist?list=PLFBA21F349930F92F) ([alt](https://cursos.univesp.br/courses/3002))| 8 Semanas | 2 horas/semana | Integrais Triplas; Teorema Gauss e Stokes; Campos Conservativos; Green. | Cálculo II
-[Física Geral III](https://www.youtube.com/playlist?list=PLxI8Can9yAHdG8tw2QofrU02IuAEVyGlL) | 7 Semanas | 2 horas/semana | Eletromagnetismo; Polaridade; Corrente. | Física Geral II
+[Física Geral II](https://www.youtube.com/playlist?list=PL516F59E9AE8F5BF7) | 7 Semanas | 2 horas/semana | Gravitação; Ondas; Termodinâmica. | Física Geral I
 [História da Matemática](https://www.youtube.com/playlist?list=PLxI8Can9yAHdOIYVPQPS6oUPBk8mb1CVU) | 7 Semanas | 1 hora/semana | História, Sistemas numéricos da antiguidade, Evolução. | -
 [Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLxI8Can9yAHeeWqe3m9HZFiBhT33Mfxew) ([alt](https://integra.univesp.br/courses/1624)) | 7 Semanas | 2 horas/semana | Tabelas; Gráficos; Aleatoriedade. | -
 [Análise Complexa](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRQ07QOEFl0x6mvyTl2hlRn) | ? Semanas | ? horas/semana | Espaços; Banach; Convergência. | -
 
-
+<!-- +1 -->
 ## Tópicos Matemáticos
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 :-- | :--: | :--: | :--: | :--:
@@ -158,6 +159,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Estruturas Algébricas](https://www.youtube.com/playlist?list=PL6eyvTm7LSBsdkBBKzEDcyYbdujN_6TmL) | ? Semanas | ? horas/semana | Grupos e Subgrupos; Anéis; Ideais. | Teoria dos Números
 [Váriavel Complexa](https://www.youtube.com/playlist?list=PLpizEtrJatZEUjIgADKdbE6_jGhcXFxht) | 8 Semanas | 3 horas/semana | Números Complexos; Funções Elementares; Derivação; Integração. | Cálculo IV
 [Teoria dos Grafos](https://www.youtube.com/playlist?list=PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX) | 4 Semanas | 3 horas/semana | Grafos; Representações; Isomorfismo; Decomposição. | -
+[Física Geral III](https://www.youtube.com/playlist?list=PLxI8Can9yAHdG8tw2QofrU02IuAEVyGlL) | 7 Semanas | 2 horas/semana | Eletromagnetismo; Polaridade; Corrente. | Física Geral II
 
 ## Teoria Avançada
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
