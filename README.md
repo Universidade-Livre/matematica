@@ -94,7 +94,7 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 
 # Antes de começar
 
-Existem tópicos que apesar de não serem essenciais na formação de Ciência da Computação podem ser muito úteis na sua jornada de aprendizado. Caso queira você pode pulá-los ou vê-los depois.
+Existem tópicos que apesar de não serem essenciais na formação de Matemática podem ser muito úteis na sua jornada de aprendizado. Caso queira você pode pulá-los ou vê-los depois.
 
 ## Técnicas de estudo, organização e aprendizagem
 
