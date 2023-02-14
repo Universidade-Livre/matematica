@@ -173,6 +173,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
   - [Jefferson Quesado](https://github.com/jeffque): Responsável pelo Currículo de Matemática
   - [Emanuel Elias](https://github.com/elvcastelo): Mantenedor do Currículo de Matemática
   - [Pedro Henrique](https://github.com/Shnrqpdr): Mantenedor do Currículo de Matemática
+  - [Marcus Rodrigues](https://github.com/mavinsi): Mantenedor do Site do Projeto
   - [Mateus Roveda](https://github.com/mateusrovedaa): Contribuidor
 
 # Contribuidores
