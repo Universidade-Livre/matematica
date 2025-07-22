@@ -24,7 +24,7 @@ SOFTWARE.
 -->
 
 <p align="center">
-<img src="https://uploaddeimagens.com.br/images/003/775/185/original/matematica(1).jpg">
+<img src="https://raw.githubusercontent.com/Universidade-Livre/imagens/refs/heads/main/outras/ubl_mat.jpeg">
 </p>
 <p align="center">
 <h3 align="center">Universidade Brasileira Livre</h3>
